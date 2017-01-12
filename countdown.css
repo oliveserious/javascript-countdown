@@ -1,0 +1,82 @@
+body{
+    background:#505D6E url(../img/fractals2.jpg) no-repeat center center fixed; 
+    background-size: cover;
+    height: 600px;
+    
+    min-height:100%;
+    min-height:100%; 	
+    color: #fff;                
+    
+    /* paramètres spécifiques pour navigateurs */
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;                               
+    -webkit-background-size: cover;                                 
+    -moz-background-size: cover;
+    -o-background-size: cover;    
+    
+}
+			
+.container {
+    margin: 0px auto;
+    padding: 0px;
+}
+
+#main { 
+    
+    
+    
+}
+
+.content {
+    padding: 10px 44px;
+}
+
+.text {
+    border-bottom: 1px solid #262626;
+    margin-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+.text h2 {
+    color: #E5E5E5;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+.counter {
+    background: #2C2C2C;
+    -moz-box-shadow:    inset 0 0 5px #000000;
+    -webkit-box-shadow: inset 0 0 5px #000000;
+    box-shadow:         inset 0 0 5px #000000;
+    min-height: 150px;
+    text-align: center;
+}
+
+.counter h3 {
+    color: #E5E5E5;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+#countdown {
+    color: #FFFFFF;
+}
+
+#countdown span {
+    color: #E5E5E5;
+    font-size: 26px;
+    font-weight: normal;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
